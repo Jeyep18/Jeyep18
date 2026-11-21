@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="180" viewBox="0 0 720 180">
+  <title>GitHub contribution streaks</title>
+  <style>
+    svg { --ink: #2e253c; --muted: #625870; --grid: #d9d1e2; --bar: #8a6ac0; --accent: #6d3fc0; --panel: #f6f2fc; }
+    @media (prefers-color-scheme: dark) {
+      svg { --ink: #eee7f6; --muted: #bfb2d0; --grid: #423b50; --bar: #9d82cc; --accent: #b99bf6; --panel: #211a2d; }
+    }
+    .ink { fill: var(--ink); } .muted { fill: var(--muted); } .track { fill: var(--grid); }
+    .bar { fill: var(--bar); } .accent { fill: var(--accent); }
+    .grid { stroke: var(--grid); } .trend { fill: none; stroke: var(--accent); }
+    .panel { fill: var(--panel); } .point { fill: var(--panel); stroke: var(--accent); }
+
+  </style>
+  <g class="ink" font-family="system-ui, sans-serif" font-size="20">
+    <rect class="panel" width="720" height="180" rx="14"/>
+    <path class="grid" d="M240 32v116m240-116v116"/>
+    <circle class="trend" cx="360" cy="73" r="45" stroke-width="4"/>
+    <text class="accent" x="120" y="86" text-anchor="middle" font-size="42" font-weight="700">89</text>
+    <text x="120" y="139" text-anchor="middle" font-size="23">Total contributions</text>
+    <text class="accent" x="360" y="86" text-anchor="middle" font-size="42" font-weight="700">1</text>
+    <text x="360" y="139" text-anchor="middle" font-size="23">Current streak</text>
+    <text class="accent" x="600" y="86" text-anchor="middle" font-size="42" font-weight="700">5</text>
+    <text x="600" y="139" text-anchor="middle" font-size="23">Longest streak</text>
+    <text class="muted" x="120" y="162" text-anchor="middle" font-size="19">Since joining GitHub</text>
+    <text class="muted" x="360" y="162" text-anchor="middle" font-size="19">Consecutive days</text>
+    <text class="muted" x="600" y="162" text-anchor="middle" font-size="19">Consecutive days</text>
+  </g>
+</svg>

@@ -1,13 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="192" viewBox="0 0 480 192">
   <title>Languages by repository bytes</title>
   <style>
-    svg { --ink: #2e253c; --muted: #625870; --grid: #d9d1e2; --bar: #8a6ac0; --accent: #6d3fc0; }
+    svg { --ink: #2e253c; --muted: #625870; --grid: #d9d1e2; --bar: #8a6ac0; --accent: #6d3fc0; --panel: #f6f2fc; }
     @media (prefers-color-scheme: dark) {
-      svg { --ink: #eee7f6; --muted: #bfb2d0; --grid: #423b50; --bar: #9d82cc; --accent: #b99bf6; }
+      svg { --ink: #eee7f6; --muted: #bfb2d0; --grid: #423b50; --bar: #9d82cc; --accent: #b99bf6; --panel: #211a2d; }
     }
     .ink { fill: var(--ink); } .muted { fill: var(--muted); } .track { fill: var(--grid); }
-    .bar { fill: var(--bar); } .point { fill: var(--accent); }
-    .grid { stroke: var(--grid); }
+    .bar { fill: var(--bar); } .accent { fill: var(--accent); }
+    .grid { stroke: var(--grid); } .trend { fill: none; stroke: var(--accent); }
+    .panel { fill: var(--panel); } .point { fill: var(--panel); stroke: var(--accent); }
 
   </style>
   <g class="ink" font-family="system-ui, sans-serif" font-size="20">

@@ -1,25 +1,42 @@
 <p align="center"><img src="assets/wordmark.svg" alt="John Francis"></p>
-<p align="center"><strong>@Jeyep18</strong> · CS student in the Philippines · <a href="https://johnfrancisespiritu.vercel.app/">Portfolio</a></p>
+<p align="center"><strong>@Jeyep18</strong> · CS student in the Philippines</p>
+<p align="center"><a href="https://johnfrancisespiritu.vercel.app/">Portfolio</a> · <a href="mailto:jfrancis.espiritu@gmail.com">Email</a></p>
 
-## GitHub progress
+<!-- profile-badges:start -->
+
+<p align="center">
+  <a href="https://github.com/Jeyep18?tab=followers"><img src="assets/follow.svg" height="30" alt="Follow · 6 GitHub followers"></a>
+  <a href="https://github.com/Jeyep18?tab=repositories&amp;sort=stargazers"><img src="assets/stars.svg" height="30" alt="1 star earned on public non-fork repositories"></a>
+  <img src="https://komarev.com/ghpvc/?username=Jeyep18&amp;color=6d3fc0&amp;style=for-the-badge&amp;label=Profile%20views" height="30" alt="Profile views via Komarev, based on badge requests">
+</p>
+
+<!-- profile-badges:end -->
+
+## Stats and activity
 
 <!-- profile-stats:start -->
 
-**14 contributions** over 12 weeks · **4 public project repositories**
+### Contribution graph
 
-![GitHub contributions by week through 2026-11-14 (UTC). Counts in the breakdown below.](assets/activity.svg)
+![Daily GitHub contributions for 31 complete days through 2026-11-20 (UTC). Counts in the breakdown below.](assets/activity.svg)
+
+### Streak activity
+
+![GitHub contribution streaks. Total: 89 contributions. Current: 1 day. Longest: 5 days.](assets/streak.svg)
+
+<details>
+<summary>Daily counts and language breakdown</summary>
+
+- **Daily contributions (UTC)** · Oct 21 (0), Oct 22 (0), Oct 23 (0), Oct 24 (0), Oct 25 (3), Oct 26 (1), Oct 27 (1), Oct 28 (2), Oct 29 (0), Oct 30 (0), Oct 31 (0), Nov 1 (0), Nov 2 (1), Nov 3 (0), Nov 4 (1), Nov 5 (0), Nov 6 (0), Nov 7 (0), Nov 8 (0), Nov 9 (4), Nov 10 (1), Nov 11 (0), Nov 12 (0), Nov 13 (0), Nov 14 (0), Nov 15 (2), Nov 16 (1), Nov 17 (0), Nov 18 (2), Nov 19 (0), Nov 20 (0)
+- **Streak activity** · 89 contributions since joining GitHub. Current streak: 1 day. Longest streak: 5 days.
+- **Language shares** · TypeScript (57.8%), JavaScript (21.1%), Python (8.4%), CSS (6.8%), PLpgSQL (4.8%), Other languages (1.1%)
 
 [Live contribution calendar](https://github.com/Jeyep18)
 
-<details>
-<summary>Language breakdown and weekly counts</summary>
-
 ![Programming language shares by repository bytes. Percentages below.](assets/languages.svg)
 
-- **Language shares** · TypeScript (57.8%), JavaScript (21.1%), Python (8.4%), CSS (6.8%), PLpgSQL (4.8%), Other languages (1.1%)
-- **Weekly counts by start date (UTC)** · Aug 23 (0), Aug 30 (0), Sep 6 (0), Sep 13 (0), Sep 20 (0), Sep 27 (0), Oct 4 (0), Oct 11 (0), Oct 18 (0), Oct 25 (7), Nov 1 (2), Nov 8 (5)
-
-Activity uses GitHub’s public calendar. Repository totals exclude forks and this profile repo. Language shares use GitHub-reported bytes and don’t measure proficiency.
+Streaks use UTC dates visible in GitHub’s public calendar. A streak active yesterday remains current until today ends. Language shares use GitHub-reported bytes across public non-fork project repositories.
+Profile views are proxied badge requests counted by Komarev.
 
 </details>
 
@@ -32,12 +49,26 @@ Activity uses GitHub’s public calendar. Repository totals exclude forks and th
 - [**Bagyong Bahay**](https://github.com/Jeyep18/software-eng-fest/tree/dev) · Godot storm-preparation game in development.
 - [**TransitPH**](https://github.com/Jeyep18/transit-ph) · Coursework app for finding routes and estimating fares.
 
+## My tools
+
+### Languages
+
+![TypeScript, JavaScript, Python, GDScript](assets/tools/languages.svg)
+
+### Frameworks and libraries
+
+![React, TanStack Start, Next.js, Django REST Framework](assets/tools/frameworks.svg)
+
+### Data and hosting
+
+![PostgreSQL, Supabase, Cloudflare Workers, Vercel](assets/tools/platforms.svg)
+
+### Development tools
+
+![Git, GitHub Actions, Godot, Vitest](assets/tools/development.svg)
+
 ## About
 
 I’m building public-facing web apps and working on game systems in Godot.
 
-**Stack** · TypeScript, React, Next.js, TanStack Start, Python, Django REST Framework, PostgreSQL, Godot, GDScript
-
-[Email](mailto:jfrancis.espiritu@gmail.com) · [GitHub](https://github.com/Jeyep18)
-
-<!-- The weekly workflow refreshes the marked block and chart SVGs from GitHub. Font licenses are in assets/fonts/. -->
+<!-- The daily workflow refreshes the marked blocks and analytics SVGs. Font licenses are in assets/fonts/. -->

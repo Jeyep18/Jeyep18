@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="216" height="58" viewBox="0 0 216.0 58">
+  <title>TypeScript, JavaScript, Python, GDScript</title>
+  <rect x="0.0" y="0" width="105.0" height="26" rx="4" fill="#245488"/>
+  <text x="11.0" y="18" fill="#fff" font-family="system-ui, sans-serif" font-size="15" font-weight="600">TypeScript</text>
+  <rect x="111.0" y="0" width="105.0" height="26" rx="4" fill="#775807"/>
+  <text x="122.0" y="18" fill="#fff" font-family="system-ui, sans-serif" font-size="15" font-weight="600">JavaScript</text>
+  <rect x="0.0" y="32" width="72.2" height="26" rx="4" fill="#345e75"/>
+  <text x="11.0" y="50" fill="#fff" font-family="system-ui, sans-serif" font-size="15" font-weight="600">Python</text>
+  <rect x="78.2" y="32" width="88.6" height="26" rx="4" fill="#565185"/>
+  <text x="89.2" y="50" fill="#fff" font-family="system-ui, sans-serif" font-size="15" font-weight="600">GDScript</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="282" height="58" viewBox="0 0 281.6 58">
+  <title>React, TanStack Start, Next.js, Django REST Framework</title>
+  <rect x="0.0" y="0" width="64.0" height="26" rx="4" fill="#255f73"/>
+  <text x="11.0" y="18" fill="#fff" font-family="system-ui, sans-serif" font-size="15" font-weight="600">React</text>
+  <rect x="70.0" y="0" width="137.8" height="26" rx="4" fill="#536336"/>
+  <text x="81.0" y="18" fill="#fff" font-family="system-ui, sans-serif" font-size="15" font-weight="600">TanStack Start</text>
+  <rect x="0.0" y="32" width="80.4" height="26" rx="4" fill="#403b55"/>
+  <text x="11.0" y="50" fill="#fff" font-family="system-ui, sans-serif" font-size="15" font-weight="600">Next.js</text>
+  <rect x="86.4" y="32" width="195.2" height="26" rx="4" fill="#3c6046"/>
+  <text x="97.4" y="50" fill="#fff" font-family="system-ui, sans-serif" font-size="15" font-weight="600">Django REST Framework</text>
+</svg>
