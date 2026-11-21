@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="192" viewBox="0 0 480 192">
+  <title>Languages by repository bytes</title>
+  <style>
+    svg { --ink: #2e253c; --muted: #625870; --grid: #d9d1e2; --bar: #8a6ac0; --accent: #6d3fc0; }
+    @media (prefers-color-scheme: dark) {
+      svg { --ink: #eee7f6; --muted: #bfb2d0; --grid: #423b50; --bar: #9d82cc; --accent: #b99bf6; }
+    }
+    .ink { fill: var(--ink); } .muted { fill: var(--muted); } .track { fill: var(--grid); }
+    .bar { fill: var(--bar); } .point { fill: var(--accent); }
+    .grid { stroke: var(--grid); }
+
+  </style>
+  <g class="ink" font-family="system-ui, sans-serif" font-size="20">
+    <text x="2" y="20">TypeScript</text>
+    <rect class="track" x="218" y="9" width="165" height="7" rx="2"/>
+    <rect class="bar" x="218" y="9" width="95.3" height="7" rx="2"/>
+    <text class="muted" x="478" y="20" text-anchor="end">57.8%</text>
+    <text x="2" y="52">JavaScript</text>
+    <rect class="track" x="218" y="41" width="165" height="7" rx="2"/>
+    <rect class="bar" x="218" y="41" width="34.9" height="7" rx="2"/>
+    <text class="muted" x="478" y="52" text-anchor="end">21.1%</text>
+    <text x="2" y="84">Python</text>
+    <rect class="track" x="218" y="73" width="165" height="7" rx="2"/>
+    <rect class="bar" x="218" y="73" width="13.9" height="7" rx="2"/>
+    <text class="muted" x="478" y="84" text-anchor="end">8.4%</text>
+    <text x="2" y="116">CSS</text>
+    <rect class="track" x="218" y="105" width="165" height="7" rx="2"/>
+    <rect class="bar" x="218" y="105" width="11.2" height="7" rx="2"/>
+    <text class="muted" x="478" y="116" text-anchor="end">6.8%</text>
+    <text x="2" y="148">PLpgSQL</text>
+    <rect class="track" x="218" y="137" width="165" height="7" rx="2"/>
+    <rect class="bar" x="218" y="137" width="7.9" height="7" rx="2"/>
+    <text class="muted" x="478" y="148" text-anchor="end">4.8%</text>
+    <text x="2" y="180">Other languages</text>
+    <rect class="track" x="218" y="169" width="165" height="7" rx="2"/>
+    <rect class="bar" x="218" y="169" width="1.8" height="7" rx="2"/>
+    <text class="muted" x="478" y="180" text-anchor="end">1.1%</text>
+  </g>
+</svg>
