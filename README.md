@@ -69,6 +69,6 @@ Profile views are proxied badge requests counted by Komarev.
 
 ## About
 
-I’m building public-facing web apps and working on game systems in Godot.
+I’m building stuff rn
 
 <!-- The daily workflow refreshes the marked blocks and analytics SVGs. Font licenses are in assets/fonts/. -->
