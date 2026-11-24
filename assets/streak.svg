@@ -17,7 +17,7 @@
     <circle class="trend" cx="360" cy="73" r="45" stroke-width="4"/>
     <text class="accent" x="120" y="86" text-anchor="middle" font-size="42" font-weight="700">94</text>
     <text x="120" y="139" text-anchor="middle" font-size="23">Total contributions</text>
-    <text class="accent" x="360" y="86" text-anchor="middle" font-size="42" font-weight="700">2</text>
+    <text class="accent" x="360" y="86" text-anchor="middle" font-size="42" font-weight="700">0</text>
     <text x="360" y="139" text-anchor="middle" font-size="23">Current streak</text>
     <text class="accent" x="600" y="86" text-anchor="middle" font-size="42" font-weight="700">5</text>
     <text x="600" y="139" text-anchor="middle" font-size="23">Longest streak</text>
