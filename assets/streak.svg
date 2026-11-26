@@ -15,9 +15,9 @@
     <rect class="panel" width="720" height="180" rx="14"/>
     <path class="grid" d="M240 32v116m240-116v116"/>
     <circle class="trend" cx="360" cy="73" r="45" stroke-width="4"/>
-    <text class="accent" x="120" y="86" text-anchor="middle" font-size="42" font-weight="700">94</text>
+    <text class="accent" x="120" y="86" text-anchor="middle" font-size="42" font-weight="700">95</text>
     <text x="120" y="139" text-anchor="middle" font-size="23">Total contributions</text>
-    <text class="accent" x="360" y="86" text-anchor="middle" font-size="42" font-weight="700">0</text>
+    <text class="accent" x="360" y="86" text-anchor="middle" font-size="42" font-weight="700">1</text>
     <text x="360" y="139" text-anchor="middle" font-size="23">Current streak</text>
     <text class="accent" x="600" y="86" text-anchor="middle" font-size="42" font-weight="700">5</text>
     <text x="600" y="139" text-anchor="middle" font-size="23">Longest streak</text>
